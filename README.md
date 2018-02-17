@@ -11,7 +11,7 @@ Python:
 • run start-up script to determine function to run (utilize raw_input for now, will transfer over to momentary switches in final design)
 
 Java/C++ (on Arduino):
-# anticipate processing power of Arduino Uno to be sufficient for initial testing but further expansion will require RaspberryPi for processing
+<!--anticipate processing power of Arduino Uno to be sufficient for initial testing but further expansion will require RaspberryPi for processing-->
 • conductive zero-ing sequence for z-direction
 • limit-switch zero-ing for x & y directions
 • pause button
